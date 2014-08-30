@@ -1,5 +1,5 @@
 html {
-	background: black url(../img/maggielandscape.jpg) no-repeat center fixed;
+	background: black url(../img/maggielandscape.jpg) no-repeat right fixed;
 	background-size: cover;
 	overflow: hidden;
 }
@@ -14,14 +14,18 @@ html {
 
 
 h1 {
-	color: black;
-	font-size: 30px;
-	text-align: left;
-	font-family: arial, sans-serif;
+	color: #293D3D;
+  	font-family: 'Montserrat';
+  	font-weight: lighter;
+  	font-size: 41px;
+  	text-transform: uppercase;
+  	letter-spacing: 9px;
+  	text-align: left;
 }
 
 p {
 	color: black;
-	font-size: 25px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
 	text-align: left;
 }
