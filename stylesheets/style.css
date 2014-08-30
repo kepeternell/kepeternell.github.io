@@ -29,3 +29,18 @@ p {
 	font-size: 20px;
 	text-align: left;
 }
+
+li {
+	display: inline;
+	margin-left: 10px;
+	padding: 10px;
+}
+
+ul {
+	display: block;
+	color: #293D3D;
+	font-size: 19px;
+	list-style-type: none;
+	font-family: 'Raleway', sans-serif;
+
+}
