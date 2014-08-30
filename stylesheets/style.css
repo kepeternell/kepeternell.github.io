@@ -1,3 +1,8 @@
+html {
+	background: black url(../img/maggielandscape.jpg) no-repeat center fixed;
+	background-size: cover;
+	overflow: hidden;
+}
 
 .katie {
 	font-size: 2em;
@@ -5,32 +10,18 @@
 	width: 80%;
 	margin-top: 90px;
 	margin-left: 40px;
-
-	
 }
 
-html {
-	background: url(img/maggie.jpg) no-repeat left center fixed;
-	background-size: cover;
-	height: 100%;
-	width: 100%;
-
-}
 
 h1 {
 	color: black;
 	font-size: 30px;
 	text-align: left;
 	font-family: arial, sans-serif;
-
 }
 
 p {
 	color: black;
 	font-size: 25px;
 	text-align: left;
-
-}
-
-
 }
