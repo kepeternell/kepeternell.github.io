@@ -1,26 +1,41 @@
 html {
-	background: black url(../img/maggielandscape.jpg) no-repeat right fixed;
+	background: black url(../img/maggielandscape.jpg) no-repeat center fixed;
 	background-size: cover;
 	overflow: hidden;
 }
 
-.katie {
-	font-size: 2em;
-	text-align: center;
+#katie {
+	font-size: 9em;
+	text-align: center fixed;
 	width: 80%;
 	margin-top: 90px;
 	margin-left: 40px;
 }
-
+#nav {
+	width: 100%;
+}
+nav a {
+	color: #293D3D;
+	text-decoration: none;
+	text-align: center;
+}
 
 h1 {
 	color: #293D3D;
   	font-family: 'Montserrat';
-  	font-weight: lighter;
-  	font-size: 50px;
+  	font-weight: normal;
+  	font-size: 3.5em;
   	text-transform: uppercase;
   	letter-spacing: 9px;
   	text-align: left;
+}
+
+h2 {
+	font-weight: normal;
+	font-size: 2em;
+	font-family: 'Slabo 27px', serif;
+	color: #293D3D;
+	margin-top: -30px;
 }
 
 p {
@@ -34,6 +49,7 @@ li {
 	display: inline;
 	margin-left: 10px;
 	padding: 10px;
+
 }
 
 ul {
@@ -42,5 +58,6 @@ ul {
 	font-size: 19px;
 	list-style-type: none;
 	font-family: 'Raleway', sans-serif;
-
 }
+
+
